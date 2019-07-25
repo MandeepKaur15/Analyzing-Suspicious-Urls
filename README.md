@@ -13,7 +13,7 @@ REFERENCES
 5. https://stackoverflow.com/questions/44890713/selection-with-loc-in-python
 6. http://python-graph-gallery.com/barplot/
 7. Sources of malicious and benign URLs 
-  -> http://apac.trendmicro.com/apac/security-intelligence/current-threat-activity/malicious-top-ten/             
-  -> https://www.phishtank.com/phish_archive.php 
-  -> http://www.malwaredomains.com 
-  -> https://db.aa419.org/fakebankslist.php?start=21 
+  - http://apac.trendmicro.com/apac/security-intelligence/current-threat-activity/malicious-top-ten/             
+  - https://www.phishtank.com/phish_archive.php 
+  - http://www.malwaredomains.com 
+  - https://db.aa419.org/fakebankslist.php?start=21 
